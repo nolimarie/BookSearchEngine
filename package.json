@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nolimarie/BookSearchEngine/issues"
   },
-  "homepage": "https://github.com/nolimarie/BookSearchEngine#readme"
+  "homepage": "https://github.com/nolimarie/BookSearchEngine#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0"
+  }
 }
