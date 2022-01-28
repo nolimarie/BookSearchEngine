@@ -27,5 +27,7 @@
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "gql": "^1.1.2"
-  }
+  },
+  "engines": {
+    "node": "v16.13.0"}
 }
