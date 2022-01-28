@@ -28,7 +28,7 @@ MongoDB
 GraphQL
 
 ### Installation
-Clone code from github and then run ` npm install && npm run develop ` in your terminal. You can also go to the deployed site at 
+Clone code from github and then run ` npm install && npm run develop ` in your terminal. You can also go to the deployed site at https://git.heroku.com/helpfulbooksearchengine.git
 
 ### License
 ISC
